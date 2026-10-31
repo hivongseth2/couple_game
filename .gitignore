@@ -1,0 +1,18 @@
+# Thư viện cài bằng npm
+node_modules/
+
+# Dữ liệu chạy thật (tin nhắn, danh sách) — chỉ lưu trên máy
+data/
+
+# Log & file môi trường
+*.log
+npm-debug.log*
+.env
+.env.*
+
+# Hệ điều hành / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

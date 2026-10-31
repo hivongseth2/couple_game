@@ -1,0 +1,16 @@
+{
+  "name": "hai-dua-minh",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vòng quay cho cặp đôi: ăn gì, cà phê đâu, làm gì, quay ngân sách + nhắn tin realtime",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "socket.io": "^4.8.1"
+  }
+}
